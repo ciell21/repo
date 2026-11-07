@@ -1,0 +1,11 @@
+{
+  "name": "laravel-portfolio",
+  "version": "1.0.0",
+  "description": "Laravel Portfolio Application",
+  "private": true,
+  "engines": {
+    "node": "22.x"
+  },
+  "keywords": ["laravel", "portfolio", "vercel"],
+  "license": "MIT"
+}

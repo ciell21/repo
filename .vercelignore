@@ -1,0 +1,17 @@
+.git
+.gitignore
+.env
+.env.backup
+.env.production
+.env.local
+node_modules
+vendor
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+storage/pail/*
+tests
+.phpunit.result.cache
+package-lock.json
+database/database.sqlite
